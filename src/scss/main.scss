@@ -1,0 +1,29 @@
+.h1 {
+    display: flex;
+    padding: 10px 10px;
+    align-items: center;
+    justify-content: space-between;
+
+    // border: 1px solid;
+
+
+    h1 {
+        font-size: 40px;
+        // margin-top: 50px;
+    }
+
+    button {
+        width: 120px;
+        height: 40px;
+        cursor: pointer;
+        border-radius: 6px;
+        color: white;
+        font-size: 18px;
+
+    }
+}
+
+.student {
+    margin-bottom: 10px;
+    font-size: 37px;
+}
